@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_3_1_WallsVolume.dll"</Assembly>
+		<AddInId>EC3E85A4-0C71-4510-9CB4-5751A2B52EAA</AddInId>
+		<FullClassName>RevitAPILab_3_1_WallsVolume.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Объем стен по грани</Text>
+	</AddIn>
+</RevitAddIns>
